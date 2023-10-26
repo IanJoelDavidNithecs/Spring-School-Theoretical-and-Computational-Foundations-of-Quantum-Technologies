@@ -4,7 +4,7 @@ On Saturday, October 28th, South Africa will face New Zealand in the Rugby World
 
 ## Challenge Description
 
-In the Data folder, you will find a CSV file containing statistics of Rugby matches. While the data is comprehensive, it is a bit outdated, and we need to enhance it with a few recent results.
+In the data folder, you will find a CSV file containing statistics of Rugby matches. While the data is comprehensive, it is a bit outdated, and we need to enhance it with a few recent results.
  
 **Your task** is to develop a Quantum Machine Learning (QML) algorithm that can predict the winner of the Rugby World Cup final. To accomplish this, you should consider the following steps:
 
